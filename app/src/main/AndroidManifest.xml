@@ -30,8 +30,8 @@
         android:fullBackupContent="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/MyTheme.Base"
-        tools:replace="android:icon">
+	android:theme="@style/MyTheme.Base">
+        
 
         <meta-data
             android:name="DEFAULT_MESSAGE_HANDLER_KEY"
